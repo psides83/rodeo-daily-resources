@@ -1,8 +1,8 @@
 {
   "gbWorld": "https://wpra.com/standings-pro-rodeo-breakaway-world/",
   "gbRookie": "https://wpra.com/wpra-resistol-rookie-standings/",
-  "gbCircuit": "https://wpra.com/standings-circuit/?circuit=southeastern&group=pro%20rodeo-circuit&with="
+  "gbCircuit": "https://wpra.com/standings-circuit/?circuit={circuit}&group=pro%20rodeo-circuit&with={circuit}",
   "lbWorld": "https://wpra.com/standings-pro-rodeo-breakaway-world/",
   "lbRookie": "https://wpra.com/wpra-resistol-rookie-standings-pro/",
-  "lbCircuit": "https://wpra.com/standings-circuit/?circuit="
+  "lbCircuit": "https://wpra.com/standings-circuit/?circuit={circuit}"
 }
