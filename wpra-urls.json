@@ -2,7 +2,7 @@
   "gbWorld": "https://wpra.com/standings-pro-rodeo-world-{selectedYear}/",
   "gbRookie": "https://wpra.com/wpra-resistol-rookie-standings/",
   "gbCircuit": "https://wpra.com/standings-circuit/?circuit={circuit}&group=pro%20rodeo-circuit&with={circuit}",
-  "lbWorld": "https://wpra.com/standings-pro-rodeo-breakaway-world/",
+  "lbWorld": "https://wpra.com/pro-rodeo-breakaway-world-standings-{selectedYear}/",
   "lbRookie": "https://wpra.com/wpra-resistol-rookie-standings-pro/",
   "lbCircuit": "https://wpra.com/standings-circuit/?circuit={circuit}"
 }
