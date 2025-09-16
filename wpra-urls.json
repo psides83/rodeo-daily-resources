@@ -4,5 +4,5 @@
   "gbCircuit": "https://wpra.com/standings-circuit/?circuit={circuit}&group=pro%20rodeo-circuit&with={circuit}",
   "lbWorld": "https://wpra.com/pro-rodeo-breakaway-world-standings-{selectedYear}/",
   "lbRookie": "https://wpra.com/wpra-resistol-rookie-standings-pro/",
-  "lbCircuit": "https://wpra.com/standings-circuit/?circuit={circuit}"
+  "lbCircuit": "https://wpra.com/pro-rodeo-breakaway-circuit-standings-{circuit}-{selectedYear/circuit={circuit}"
 }
